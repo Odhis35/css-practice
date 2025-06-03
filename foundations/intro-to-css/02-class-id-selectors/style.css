@@ -1,0 +1,26 @@
+body{
+    background-color: white;
+}
+
+#lisa{
+    color: rgb(9, 9, 10);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 8px 16px;
+    margin: 8px 8px;
+    background-color: rgb(231, 154, 154);
+}
+
+
+
+.bossy{
+    color: rgb(58, 58, 192);
+    font-size: 36px;
+}
+
+.mocha{
+    background-color:  rgb(136, 204, 136);
+    font-size: 24px;
+    font-weight: bold;
+}
