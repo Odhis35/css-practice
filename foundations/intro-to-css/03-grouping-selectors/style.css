@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+}
+.on-click{
+    background-color: rgb(10, 1, 1);
+    color: rgb(249, 253, 249);
+    padding: 16px;
+}
+
+.yes-click{
+    background-color: yellow;
+    color: black;
+    border-color: black;
+    border-width: 3px;
+    padding: 16px;
+}
