@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(209, 156, 86);
+}
+div{
+    background-color: yellow;
+}
+.text{
+    color: red;
+    font: 20px;
+    text-align: center;
+}
